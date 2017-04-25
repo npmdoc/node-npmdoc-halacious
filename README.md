@@ -1,4 +1,7 @@
-# api documentation for  [halacious (v4.0.0)](https://github.com/bleupen/halacious)  [![npm package](https://img.shields.io/npm/v/npmdoc-halacious.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-halacious) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-halacious.svg)](https://travis-ci.org/npmdoc/node-npmdoc-halacious)
+# npmdoc-halacious
+
+#### basic api documentation for  [halacious (v4.0.0)](https://github.com/bleupen/halacious)  [![npm package](https://img.shields.io/npm/v/npmdoc-halacious.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-halacious) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-halacious.svg)](https://travis-ci.org/npmdoc/node-npmdoc-halacious)
+
 #### A better HAL processor for Hapi
 
 [![NPM](https://nodei.co/npm/halacious.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/halacious)
@@ -83,7 +86,8 @@
     "scripts": {
         "test": "mocha test"
     },
-    "version": "4.0.0"
+    "version": "4.0.0",
+    "bin": {}
 }
 ```
 
